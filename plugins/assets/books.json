@@ -19,11 +19,11 @@
     },
     {
       "post_author_id": 3,
-      "post_author": "Matthias Witt",
+      "post_author": "Mathias Witt",
       "post_type": "books",
       "post_content": "Like it or not, JavaScript is everywhere these days-from browser to server to mobile-and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.",
-      "post_title": "Matthias Witt Description about the book",
-      "post_name": "TITLE_OF_Matthias_Witt1",
+      "post_title": "Mathias Witt Description about the book",
+      "post_name": "TITLE_OF_Mathias_Witt1",
       "post_status": "publish"
     },
     {
@@ -37,11 +37,11 @@
     },
     {
       "post_author_id": 3,
-      "post_author": "Matthias Witt",
+      "post_author": "Mathias Witt",
       "post_type": "books",
       "post_content": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
-      "post_title": "Matthias Witt Description about the book",
-      "post_name": "TITLE_OF_Matthias_Witt2",
+      "post_title": "Mathias Witt Description about the book",
+      "post_name": "TITLE_OF_Mathias_Witt2",
       "post_status": "draft"
     },
     {
@@ -55,11 +55,11 @@
     },
     {
       "post_author_id": 3,
-      "post_author": "Matthias Witt",
+      "post_author": "Mathias Witt",
       "post_type": "books",
       "post_content": "Design and build Web APIs for a broad range of clients—including browsers and mobile devices—that can adapt to change over time. This practical, hands-on guide takes you through the theory and tools you need to build evolvable HTTP services with Microsoft’s ASP.NET Web API framework. In the process, you’ll learn how design and implement a real-world Web API.",
-      "post_title": "Matthias Witt Description about the book",
-      "post_name": "TITLE_OF_Matthias_Witt3",
+      "post_title": "Mathias Witt Description about the book",
+      "post_name": "TITLE_OF_Mathias_Witt3",
       "post_status": "publish"
     }
   ]
